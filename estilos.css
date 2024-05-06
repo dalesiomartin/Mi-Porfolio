@@ -1,0 +1,60 @@
+
+#cara01 {
+    background-image: url('https://github.com/dalesiomartin/imagenes_modelos/blob/main/03%20codigo%20binario.jpg?raw=true');
+    background-size:cover;
+    height: 60vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+
+
+#contenido01{
+    background-color: rgba(0, 0, 0, 0.8); /* Fondo semi-transparente para el texto */
+    padding: 20px;
+    border-radius: 10px;
+    color:beige ;
+    font-weight: bold ;
+    font-size: large;
+}
+
+#cara02{
+    justify-content: center;
+    align-items: center;
+    color:darkslategrey;
+    text-align: center;
+    /* display: flex; */ /*NO PUEDE IR EL CONTENIDO PORQUE SE MEZCLA CON EL RESTO DEL CONTENIDO*/
+}
+
+#aptit{
+    font-size: medium;
+}
+
+table {
+    display: flex;
+    border-collapse: collapse;
+    text-align: center;
+    justify-content: center;
+    align-items: center
+  }
+  
+  th, td {
+    padding: 5px; /* Espacio interno para que el contenido no esté pegado a los bordes */
+  }
+
+#cursos{
+    text-align: justify; 
+       
+}
+
+
+#cara03 {
+    background-color:rgba(3, 56, 100, 0.925);
+    justify-content: center;
+    align-items: center;
+    color:beige ;
+    text-align: center;
+}
+
